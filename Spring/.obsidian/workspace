@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "3cdb2ecc8021a444",
+    "type": "split",
+    "children": [
+      {
+        "id": "3083c84fe3000d93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Spring Core/2. Spring IOC Containers.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86e431a206929d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "f065550e641015f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe25fa271510973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a815e1d551488d32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351
+  },
+  "right": {
+    "id": "d8d00e9618d053cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a481f8c57c93263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df990e12f5f2477b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Spring Core/2. Spring IOC Containers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3083c84fe3000d93",
+  "lastOpenFiles": [
+    "1. Spring Core/2. Spring IOC Containers.md",
+    "1. Spring Core/1. What is Spring?.md",
+    "4 .Spring MVC/1. Intro/3. MVC Annotations.md",
+    "3. Spring ORM/6. Implementation.md",
+    "3. Spring ORM/5. Database operation Methods.md",
+    "3. Spring ORM/4. Configuration file.md",
+    "3. Spring ORM/3. Dependencies.md",
+    "3. Spring ORM/2. Spring ORM.md",
+    "3. Spring ORM/1. Intro to ORM.md",
+    "6. Spring Boot/1. Introduction/5. Logger.md"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a08c020e1cf1eb2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04a3bda75396d7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Card and UPI details.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0062742d1993a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52bd69580c635bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78900c86c7a128a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11e99efba8b573de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acda6a00ada75443",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed155994a7cff77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a847ae499159dcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Card and UPI details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b04a3bda75396d7a",
+  "lastOpenFiles": [
+    "Card and UPI details.md",
+    "Todos.md",
+    "API endpoints.md",
+    "Additional features.md",
+    "Selecting seats.md",
+    "Rest API features.md",
+    "Database/Table schemas.md",
+    "Frontend/Routes and Components.md",
+    "Frontend/Components.md"
+  ]
+}

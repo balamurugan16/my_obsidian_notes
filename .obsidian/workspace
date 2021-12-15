@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b652e1d0bb7bb452",
+    "type": "split",
+    "children": [
+      {
+        "id": "28bd47b529a7152e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92ea581b4e9179fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb325eb22da6d6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "264dd120485313be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b83266e6694a08f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327
+  },
+  "right": {
+    "id": "106b4d5f2b30d23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69334ce1d1393aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ba6cdd18cd2ef25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "28bd47b529a7152e",
+  "lastOpenFiles": [
+    "Spring/Spring MVC/3. Data from UI to Controller/6. RequestParam annotation.md",
+    "Spring/Spring MVC/3. Data from UI to Controller/5. ModelAttribute annotation.md",
+    "Spring/Spring MVC/2. Data from Controller to UI/4. ModelMap and String View.md",
+    "Spring/Spring MVC/2. Data from Controller to UI/3. ModelAndView Object.md",
+    "Spring/Spring MVC/1. Intro/2. Steps to implement Spring MVC.md",
+    "Spring/Spring MVC/1. Intro/1. Introduction.md",
+    "Untitled.md",
+    "Spring/Spring Core/1. What is Spring?.md",
+    "Spring/Spring Core/2. Spring IOC Containers.md"
+  ]
+}
