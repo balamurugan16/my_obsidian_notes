@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "f45e7ba161f4cfaa",
+    "id": "e67d98cc49071822",
     "type": "split",
     "children": [
       {
-        "id": "93710e21d72bd6c2",
+        "id": "592f8bef241334ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. OOPS/5. __proto__ vs prototype.md",
-            "mode": "source"
+            "file": "5. Classes/7. Singleton and Private Constructors.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1141c54aa14df625",
+    "id": "2793403ca47de46e",
     "type": "split",
     "children": [
       {
-        "id": "e9b9b296871be985",
+        "id": "8ec9c3c1d4151dac",
         "type": "tabs",
         "children": [
           {
-            "id": "63da268b9cad26ae",
+            "id": "7bc405b6353f4b81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +35,7 @@
             }
           },
           {
-            "id": "b60b75148bb16535",
+            "id": "2242e068c66c6c3c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277
   },
   "right": {
-    "id": "4869cb8487c94d1f",
+    "id": "56bf76a495b0bad8",
     "type": "split",
     "children": [
       {
-        "id": "eebdffb23f89972d",
+        "id": "6f2c5b3715622566",
         "type": "tabs",
         "children": [
           {
-            "id": "73662f8913ed6c99",
+            "id": "21954ff08f1b2e3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. OOPS/5. __proto__ vs prototype.md",
+                "file": "5. Classes/7. Singleton and Private Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93710e21d72bd6c2",
+  "active": "592f8bef241334ce",
   "lastOpenFiles": [
-    "5. OOPS/5. __proto__ vs prototype.md",
-    "4. Promises/2. Working of a promise.md",
-    "javascript-hard-parts-v2.pdf",
-    "5. OOPS/5. Spread and Rest operators.md",
-    "Todo in JS.md",
-    "1. JS principles/1. JS basic principles.md",
-    "2. Higher order functions and Clousres/6. IIFE.md",
-    "5. OOPS/1. Objects.md",
-    "5. OOPS/2. New keyword.md",
-    "5. OOPS/4. Class Keyword.md"
+    "5. Classes/7. Singleton and Private Constructors.md",
+    "6. Interfaces/1. What are interfaces?.md",
+    "6. Interfaces/2. Interface VS type alias and abstract class.md",
+    "6. Interfaces/2. Inheritance and implementation of interface.md",
+    "2. Types/12. Type assertions.md",
+    "5. Classes/6. Abstract Classes.md",
+    "5. Classes/5. Inheritance.md",
+    "5. Classes/4. Static methods and Readonly properties.md",
+    "5. Classes/3. Getters and Setters.md",
+    "5. Classes/2. Access Specifiers.md"
   ]
 }
