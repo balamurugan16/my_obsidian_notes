@@ -7,8 +7,11 @@
         "id": "28bd47b529a7152e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Spring/2. Spring JDBC/1. Introduction.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/2. Spring JDBC/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +88,15 @@
   },
   "active": "28bd47b529a7152e",
   "lastOpenFiles": [
+    "Spring/2. Spring JDBC/1. Introduction.md",
+    "Spring/1. Spring Core/2. Spring IOC Containers.md",
+    "Azure Fundamentals/Zones and Regions.md",
     "Spring/Spring MVC/3. Data from UI to Controller/6. RequestParam annotation.md",
     "Spring/Spring MVC/3. Data from UI to Controller/5. ModelAttribute annotation.md",
     "Spring/Spring MVC/2. Data from Controller to UI/4. ModelMap and String View.md",
     "Spring/Spring MVC/2. Data from Controller to UI/3. ModelAndView Object.md",
     "Spring/Spring MVC/1. Intro/2. Steps to implement Spring MVC.md",
     "Spring/Spring MVC/1. Intro/1. Introduction.md",
-    "Untitled.md",
-    "Spring/Spring Core/1. What is Spring?.md",
-    "Spring/Spring Core/2. Spring IOC Containers.md"
+    "Untitled.md"
   ]
 }

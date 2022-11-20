@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "e67d98cc49071822",
+    "id": "b8a37c307e9dd947",
     "type": "split",
     "children": [
       {
-        "id": "592f8bef241334ce",
+        "id": "985ce61953c22f28",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Introduction/5. Dev Environment.md",
+            "file": "Azure App Service/1. App service.md.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2793403ca47de46e",
+    "id": "bdc7d97e7ca0a5d6",
     "type": "split",
     "children": [
       {
-        "id": "8ec9c3c1d4151dac",
+        "id": "f7294d01596a4d95",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc405b6353f4b81",
+            "id": "6ef46d14755249aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "2242e068c66c6c3c",
+            "id": "bbf5c3b54d41c3b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 300
   },
   "right": {
-    "id": "56bf76a495b0bad8",
+    "id": "42167e4db4dda63f",
     "type": "split",
     "children": [
       {
-        "id": "6f2c5b3715622566",
+        "id": "e8a07a68a8e2ab46",
         "type": "tabs",
         "children": [
           {
-            "id": "21954ff08f1b2e3c",
+            "id": "b4a8ab3a21c0bdc6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction/5. Dev Environment.md",
+                "file": "Azure App Service/1. App service.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "592f8bef241334ce",
+  "active": "985ce61953c22f28",
   "lastOpenFiles": [
-    "1. Introduction/5. Dev Environment.md",
-    "1. Introduction/2. TS code vs JS code.md",
-    "5. Interfaces/2. Interface VS type alias and abstract class.md",
-    "3. The TS compiler and configuration/3. References.md",
-    "3. The TS compiler and configuration/2. tsconfig.json.md",
-    "3. The TS compiler and configuration/1. Configuring TypeScript.md",
-    "5. Classes/7. Singleton and Private Constructors.md",
-    "6. Interfaces/1. What are interfaces?.md",
-    "6. Interfaces/2. Interface VS type alias and abstract class.md",
-    "6. Interfaces/2. Inheritance and implementation of interface.md"
+    "Azure App Service/1. App service.md.md",
+    "Azure storage/4. Azure Blob Containers.md",
+    "Azure storage/1. Storage Accounts.md.md",
+    "Azure storage/3. Azure Cosmos DB.md",
+    "Azure storage/2. SQL database.md.md",
+    "Others/6. Application Messaging.md",
+    "Azure function app/1. Azure Functions.md.md",
+    "Azure function app/4. Durable functions.md",
+    "Azure function app/3. Developing Azure functions.md",
+    "Azure function app/2. Hosting and Scaling.md.md"
   ]
 }
